@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
+ 
+💻 Software Developer  
+📱 iOS Development  
+
+## 🚀 Skills
+- C
+- C++
+- Swift
+- iOS Development
+
+## 📂 Projects
+- C++ DSA Practice
+- iOS Applications
+- Algorithm Practice
+
+## 📈 Currently Learning
+- Data Structures & Algorithms
 
 <!--
 **AdityaSonawane45/AdityaSonawane45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
