@@ -1,18 +1,12 @@
 # Hi, I'm Aditya 👋
  
-💻 Software Developer  
-📱 iOS Development  
+💻 Software Developer   
 
 ## 🚀 Skills
 - C
 - C++
 - Swift
 - iOS Development
-
-## 📂 Projects
-- C++ DSA Practice
-- iOS Applications
-- Algorithm Practice
 
 ## 📈 Currently Learning
 - Data Structures & Algorithms
